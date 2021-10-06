@@ -1,0 +1,4 @@
+C:\Users\Yo\Documents\PracticasClassTopicos\TareaConvert_dec-bin\bin\Debug\TareaConvert_dec-bin.exe
+C:\Users\Yo\Documents\PracticasClassTopicos\TareaConvert_dec-bin\bin\Debug\TareaConvert_dec-bin.pdb
+C:\Users\Yo\Documents\PracticasClassTopicos\TareaConvert_dec-bin\obj\x86\Debug\TareaConvert_dec-bin.exe
+C:\Users\Yo\Documents\PracticasClassTopicos\TareaConvert_dec-bin\obj\x86\Debug\TareaConvert_dec-bin.pdb
